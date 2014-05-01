@@ -1,0 +1,30 @@
+@font-face{
+	font-family: 'ActionMan';
+	src:url('font/Action_Man/Action_Man.ttf');
+}
+@font-face{
+	font-family: 'PermanentMarker';
+	src:url('font/permanent-marker/PermanentMarker.ttf');
+}
+
+body{
+	background: #bfbfbf;
+}
+h1{
+	font-family: 'ActionMan';
+}
+.seccion{
+	font-family: "ActionMan";
+	/*font-family: "PermanentMarker";*/
+}
+.logo{
+	width: 30%;
+}
+.title{
+	letter-spacing: 7px;
+	font-family: "PermanentMarker";
+}
+.subTitle{
+	font-size: 20px;
+	font-style: italic;
+}
